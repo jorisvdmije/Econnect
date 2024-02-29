@@ -1,0 +1,2444 @@
+{
+  "groepen": [
+    {
+      "groep": "Adviesvaardigheden",
+      "tarief": 22
+    },
+    {
+      "groep": "Arbeids- en gezondheidspsychologie",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Basisopleiding coaching",
+      "tarief": 22
+    },
+    {
+      "groep": "Bedrijfspsychologie en organisatiegedrag",
+      "tarief": 22
+    },
+    {
+      "groep": "Begeleiding in organisaties",
+      "tarief": 25
+    },
+    {
+      "groep": "Coaching en begeleidingskunde",
+      "tarief": 50
+    },
+    {
+      "groep": "Communicatieve vaardigheden",
+      "tarief": 12.5
+    },
+    {
+      "groep": "Dyscalculie",
+      "tarief": 25
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1",
+      "tarief": 30
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3",
+      "tarief": 30
+    },
+    {
+      "groep": "Interculturele psychiatrie",
+      "tarief": 11.5
+    },
+    {
+      "groep": "Jeugdwet en jeugdhulp",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Kinderopvang",
+      "tarief": 12.5
+    },
+    {
+      "groep": "Management van kinderopvang",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Masterclass Gedragsbeïnvloeding",
+      "tarief": 50
+    },
+    {
+      "groep": "Masterclass Onderwijs- en Opleidingsmanagement",
+      "tarief": 50
+    },
+    {
+      "groep": "Masterclass Onderwijspedagogiek",
+      "tarief": 50
+    },
+    {
+      "groep": "Masterclass Ontwerpen en Realiseren van Leertrajecten",
+      "tarief": 50
+    },
+    {
+      "groep": "Masterclass Psychologie en Gedrag",
+      "tarief": 50
+    },
+    {
+      "groep": "Ondernemend gedrag (geschikt voor niveau 3 en 4) - K0072",
+      "tarief": 65
+    },
+    {
+      "groep": "Ontwikkelings- en levensfasepsychologie",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Oplossingsgericht werken",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Organisatie en bestuur basisonderwijs",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Organisatie en kwaliteit VO/MBO",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Persoonlijke groei en zelfinzicht",
+      "tarief": 22.5
+    },
+    {
+      "groep": "Professionele mediation",
+      "tarief": 25
+    },
+    {
+      "groep": "Propedeuse Portfolio Bachelor Social Work profiel Welzijn en samenleving",
+      "tarief": 50
+    },
+    {
+      "groep": "Zakelijk schrijven",
+      "tarief": 11.5
+    },
+    {
+      "groep": "Beinvloeden van gezond gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Cognitieve psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Didactiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Effectief communiceren en beïnvloeden",
+      "tarief": 0
+    },
+    {
+      "groep": "Gedrag in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 2",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 3",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Social Work fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Consulent Seksuele Gezondheid (met subsidie) (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Interventies sociaal werk",
+      "tarief": 0
+    },
+    {
+      "groep": "Inventariseren en organiseren van leerlingenzorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Kinderen en gedragsproblemen",
+      "tarief": 0
+    },
+    {
+      "groep": "Management voor zorg en welzijn",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Digitale Technologie voor Leren en Ontwikkelen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Effectief Beïnvloeden en Overtuigen",
+      "tarief": 0
+    },
+    {
+      "groep": "Neuropsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek en begeleiding",
+      "tarief": 0
+    },
+    {
+      "groep": "Planmatig werken en organiseren (Gedragswetenschappen)",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Post Bachelor Oplossingsgericht Coachen",
+      "tarief": 0
+    },
+    {
+      "groep": "Professioneel en oplossingsgericht werken",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal domein en ontwikkelingen",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal-maatschappelijke problematiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociale psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Coachings- en begeleidingsvaardigheden in het onderwijs",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek in de praktijk",
+      "tarief": 0
+    },
+    {
+      "groep": "Arbeids- en gezondheidspsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Bedrijfspsychologie en organisatiegedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Begeleiding in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Beinvloeden van gezond gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Coachings- en begeleidingsvaardigheden in het onderwijs",
+      "tarief": 0
+    },
+    {
+      "groep": "Cognitieve psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Communicatieve vaardigheden",
+      "tarief": 0
+    },
+    {
+      "groep": "Didactiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Effectief communiceren en beïnvloeden",
+      "tarief": 0
+    },
+    {
+      "groep": "Gedrag in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 2",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 3",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Social Work fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Consulent Seksuele Gezondheid (met subsidie) (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Interventies sociaal werk",
+      "tarief": 0
+    },
+    {
+      "groep": "Inventariseren en organiseren van leerlingenzorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Kinderen en gedragsproblemen",
+      "tarief": 0
+    },
+    {
+      "groep": "Management van kinderopvang",
+      "tarief": 0
+    },
+    {
+      "groep": "Management voor zorg en welzijn",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Digitale Technologie voor Leren en Ontwikkelen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Effectief Beïnvloeden en Overtuigen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Gedragsbeïnvloeding",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Ontwerpen en Realiseren van Leertrajecten",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Psychologie en Gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Neuropsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Ontwikkelings- en levensfasepsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek en begeleiding",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek in de praktijk",
+      "tarief": 0
+    },
+    {
+      "groep": "Persoonlijke groei en zelfinzicht",
+      "tarief": 0
+    },
+    {
+      "groep": "Planmatig werken en organiseren (Gedragswetenschappen)",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Post Bachelor Oplossingsgericht Coachen",
+      "tarief": 0
+    },
+    {
+      "groep": "Professioneel en oplossingsgericht werken",
+      "tarief": 0
+    },
+    {
+      "groep": "Professionele mediation",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal domein en ontwikkelingen",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal-maatschappelijke problematiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociale psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Arbeids- en gezondheidspsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Bedrijfspsychologie en organisatiegedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Begeleiding in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Beinvloeden van gezond gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Cognitieve psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Communicatieve vaardigheden",
+      "tarief": 0
+    },
+    {
+      "groep": "Didactiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Effectief communiceren en beïnvloeden",
+      "tarief": 0
+    },
+    {
+      "groep": "Gedrag in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 2",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 3",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Social Work fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Consulent Seksuele Gezondheid (met subsidie) (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Interventies sociaal werk",
+      "tarief": 0
+    },
+    {
+      "groep": "Inventariseren en organiseren van leerlingenzorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Kinderen en gedragsproblemen",
+      "tarief": 0
+    },
+    {
+      "groep": "Management van kinderopvang",
+      "tarief": 0
+    },
+    {
+      "groep": "Management voor zorg en welzijn",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Digitale Technologie voor Leren en Ontwikkelen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Effectief Beïnvloeden en Overtuigen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Ontwerpen en Realiseren van Leertrajecten",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Psychologie en Gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Neuropsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Ontwikkelings- en levensfasepsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek en begeleiding",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek in de praktijk",
+      "tarief": 0
+    },
+    {
+      "groep": "Persoonlijke groei en zelfinzicht",
+      "tarief": 0
+    },
+    {
+      "groep": "Planmatig werken en organiseren (Gedragswetenschappen)",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Post Bachelor Oplossingsgericht Coachen",
+      "tarief": 0
+    },
+    {
+      "groep": "Professioneel en oplossingsgericht werken",
+      "tarief": 0
+    },
+    {
+      "groep": "Professionele mediation",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal domein en ontwikkelingen",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal-maatschappelijke problematiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociale psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Arbeids- en gezondheidspsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Bedrijfspsychologie en organisatiegedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Begeleiding in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Beinvloeden van gezond gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Cognitieve psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Communicatieve vaardigheden",
+      "tarief": 0
+    },
+    {
+      "groep": "Didactiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Effectief communiceren en beïnvloeden",
+      "tarief": 0
+    },
+    {
+      "groep": "Gedrag in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 2",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 3",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Social Work fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Consulent Seksuele Gezondheid (met subsidie) (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Interventies sociaal werk",
+      "tarief": 0
+    },
+    {
+      "groep": "Inventariseren en organiseren van leerlingenzorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Kinderen en gedragsproblemen",
+      "tarief": 0
+    },
+    {
+      "groep": "Management van kinderopvang",
+      "tarief": 0
+    },
+    {
+      "groep": "Management voor zorg en welzijn",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Digitale Technologie voor Leren en Ontwikkelen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Effectief Beïnvloeden en Overtuigen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Ontwerpen en Realiseren van Leertrajecten",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Psychologie en Gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Neuropsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Ontwikkelings- en levensfasepsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek en begeleiding",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek in de praktijk",
+      "tarief": 0
+    },
+    {
+      "groep": "Persoonlijke groei en zelfinzicht",
+      "tarief": 0
+    },
+    {
+      "groep": "Planmatig werken en organiseren (Gedragswetenschappen)",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Post Bachelor Oplossingsgericht Coachen",
+      "tarief": 0
+    },
+    {
+      "groep": "Professioneel en oplossingsgericht werken",
+      "tarief": 0
+    },
+    {
+      "groep": "Professionele mediation",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal domein en ontwikkelingen",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal-maatschappelijke problematiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociale psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Arbeids- en gezondheidspsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Bedrijfspsychologie en organisatiegedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Begeleiding in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Beinvloeden van gezond gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Cognitieve psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Communicatieve vaardigheden",
+      "tarief": 0
+    },
+    {
+      "groep": "Didactiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Effectief communiceren en beïnvloeden",
+      "tarief": 0
+    },
+    {
+      "groep": "Gedrag in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 2",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 3",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Social Work fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Consulent Seksuele Gezondheid (met subsidie) (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Interventies sociaal werk",
+      "tarief": 0
+    },
+    {
+      "groep": "Inventariseren en organiseren van leerlingenzorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Kinderen en gedragsproblemen",
+      "tarief": 0
+    },
+    {
+      "groep": "Management van kinderopvang",
+      "tarief": 0
+    },
+    {
+      "groep": "Management voor zorg en welzijn",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Digitale Technologie voor Leren en Ontwikkelen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Effectief Beïnvloeden en Overtuigen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Ontwerpen en Realiseren van Leertrajecten",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Psychologie en Gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Neuropsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Ontwikkelings- en levensfasepsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek en begeleiding",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek in de praktijk",
+      "tarief": 0
+    },
+    {
+      "groep": "Persoonlijke groei en zelfinzicht",
+      "tarief": 0
+    },
+    {
+      "groep": "Planmatig werken en organiseren (Gedragswetenschappen)",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Post Bachelor Oplossingsgericht Coachen",
+      "tarief": 0
+    },
+    {
+      "groep": "Professioneel en oplossingsgericht werken",
+      "tarief": 0
+    },
+    {
+      "groep": "Professionele mediation",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal domein en ontwikkelingen",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal-maatschappelijke problematiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociale psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Arbeids- en gezondheidspsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Bedrijfspsychologie en organisatiegedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Begeleiding in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Beinvloeden van gezond gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Cognitieve psychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Communicatieve vaardigheden",
+      "tarief": 0
+    },
+    {
+      "groep": "Didactiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Effectief communiceren en beïnvloeden",
+      "tarief": 0
+    },
+    {
+      "groep": "Gedrag in organisaties",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 2",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Pedagogiek fase 3",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Social Work fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Integrale opdracht HBO Consulent Seksuele Gezondheid (met subsidie) (e-learning)",
+      "tarief": 0
+    },
+    {
+      "groep": "Interventies sociaal werk",
+      "tarief": 0
+    },
+    {
+      "groep": "Inventariseren en organiseren van leerlingenzorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Kinderen en gedragsproblemen",
+      "tarief": 0
+    },
+    {
+      "groep": "Management van kinderopvang",
+      "tarief": 0
+    },
+    {
+      "groep": "Management voor zorg en welzijn",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Digitale Technologie voor Leren en Ontwikkelen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Effectief Beïnvloeden en Overtuigen",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Ontwerpen en Realiseren van Leertrajecten",
+      "tarief": 0
+    },
+    {
+      "groep": "Masterclass Psychologie en Gedrag",
+      "tarief": 0
+    },
+    {
+      "groep": "Neuropsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Ontwikkelings- en levensfasepsychologie",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek en begeleiding",
+      "tarief": 0
+    },
+    {
+      "groep": "Orthopedagogiek in de praktijk",
+      "tarief": 0
+    },
+    {
+      "groep": "Persoonlijke groei en zelfinzicht",
+      "tarief": 0
+    },
+    {
+      "groep": "Planmatig werken en organiseren (Gedragswetenschappen)",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tarief": 0
+    },
+    {
+      "groep": "Post Bachelor Oplossingsgericht Coachen",
+      "tarief": 0
+    },
+    {
+      "groep": "Professioneel en oplossingsgericht werken",
+      "tarief": 0
+    },
+    {
+      "groep": "Professionele mediation",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal domein en ontwikkelingen",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociaal-maatschappelijke problematiek",
+      "tarief": 0
+    },
+    {
+      "groep": "Sociale psychologie",
+      "tarief": 0
+    }
+  ],
+  "taskTypes": [
+    {
+      "id": 15,
+      "label": "Beoordelen digitaal examen"
+    },
+    {
+      "id": 2,
+      "label": "Beoordelen upload opdracht"
+    },
+    {
+      "id": 3,
+      "label": "e-Learningopdracht"
+    },
+    {
+      "id": 8,
+      "label": "Beoordelen mondeling examen"
+    },
+    {
+      "id": 14,
+      "label": "Presentie"
+    }
+  ],
+  "econnect_data_gekoppeld": [],
+  "econnect_data_niet_gekoppeld": [
+    {
+      "id": "MXN4MdBPatrick van der Giesen",
+      "description": "Bedrijfspsychologie en organisatiegedrag",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "nietActief",
+      "taskDate": "2024-02-16",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Patrick van der Giesen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXnXPV1Christien Durivou",
+      "description": "Dyscalculie",
+      "tariffEconnect": 25,
+      "tarief": 25,
+      "status": "nietActief",
+      "taskDate": "2024-02-16",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Christien Durivou",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXq7Q3LSaskia van Zuijlen",
+      "description": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3",
+      "tariffEconnect": 30,
+      "tarief": 30,
+      "status": "nietActief",
+      "taskDate": "2024-02-16",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Saskia van Zuijlen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXgWJ8aJiska Jonker",
+      "description": "Masterclass Ontwerpen en Realiseren van Leertrajecten",
+      "tariffEconnect": 50,
+      "tarief": 50,
+      "status": "nietActief",
+      "taskDate": "2024-02-16",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Jiska Jonker",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXYvXoMJennifer Seesing",
+      "description": "Masterclass Psychologie en Gedrag",
+      "tariffEconnect": 50,
+      "tarief": 50,
+      "status": "nietActief",
+      "taskDate": "2024-02-16",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Jennifer Seesing",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXYQVVYMargreet van Buuren",
+      "description": "Begeleiding in organisaties",
+      "tariffEconnect": 25,
+      "tarief": 25,
+      "status": "nietActief",
+      "taskDate": "2024-02-21",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Margreet van Buuren",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXanvreEsther van Antwerpen",
+      "description": "Arbeids- en gezondheidspsychologie",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "nietActief",
+      "taskDate": "2024-02-21",
+      "taskType": "Beoordelen digitaal examen",
+      "studentName": "Esther van Antwerpen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXBLon4Ivar Bontjer",
+      "description": "Persoonlijke groei en zelfinzicht",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "nietActief",
+      "taskDate": "2024-02-22",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Ivar Bontjer",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX1zJvMWendy van Vliet",
+      "description": "Ontwikkelings- en levensfasepsychologie",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "nietActief",
+      "taskDate": "2024-02-22",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Wendy van Vliet",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXVQq1eKatia Kuppens",
+      "description": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "nietActief",
+      "taskDate": "2024-02-22",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Katia Kuppens",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXL5ZZDLuigi Bellu",
+      "description": "Cognitieve psychologie",
+      "tariffEconnect": 25,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-23",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Luigi Bellu",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXnDzw1Marielle de Vries - de Caluwé",
+      "description": "Persoonlijke groei en zelfinzicht",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-02-26",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Marielle de Vries - de Caluwé",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX2PgQzMonique van Meegen",
+      "description": "Sociaal domein en ontwikkelingen",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-27",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Monique van Meegen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXLz1v7Fatima Moktar",
+      "description": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-27",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Fatima Moktar",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXL5ZZDMarianka Everts",
+      "description": "Cognitieve psychologie",
+      "tariffEconnect": 25,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-28",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Marianka Everts",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXJEeY5Arlette Peeters",
+      "description": "Orthopedagogiek en begeleiding",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-28",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Arlette Peeters",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXYnxZNDelano van der Kust",
+      "description": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1",
+      "tariffEconnect": 30,
+      "tarief": 30,
+      "status": "actief",
+      "taskDate": "2024-02-28",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Delano van der Kust",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXrWo1lYvonne Mollemans",
+      "description": "Integrale opdracht HBO Consulent Seksuele Gezondheid (met subsidie) (e-learning)",
+      "tariffEconnect": 30,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-28",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Yvonne Mollemans",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXd5LorAngela Westers",
+      "description": "Post Bachelor Oplossingsgericht Coachen",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-28",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Angela Westers",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXlVqy5Sander Schipaanboord",
+      "description": "Sociale psychologie",
+      "tariffEconnect": 25,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Sander Schipaanboord",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXJJP6OErika van Enk",
+      "description": "Management voor zorg en welzijn",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Erika van Enk",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX0eeLqJanneke Paul",
+      "description": "Integrale opdracht HBO Bachelor Social Work fase 1",
+      "tariffEconnect": 20,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Janneke Paul",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXqDao7Wendy Nieuwenhuijsen",
+      "description": "Persoonlijke groei en zelfinzicht",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Wendy Nieuwenhuijsen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXvBA7eSpomenka Amorij",
+      "description": "Sociaal domein en ontwikkelingen",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Spomenka Amorij",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX3kBgpPearl Coutinho",
+      "description": "Ontwikkelings- en levensfasepsychologie",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Pearl Coutinho",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXWZwRwNour Akila",
+      "description": "Sociaal-maatschappelijke problematiek",
+      "tariffEconnect": 15,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Nour Akila",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXYnDkXKim Poppe",
+      "description": "Professioneel en oplossingsgericht werken",
+      "tariffEconnect": 20,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Kim Poppe",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXqXoB7Susanne Heuzen",
+      "description": "Didactiek",
+      "tariffEconnect": 12.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Susanne Heuzen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXand77Femke Borst",
+      "description": "Kinderen en gedragsproblemen",
+      "tariffEconnect": 11.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen digitaal examen",
+      "studentName": "Femke Borst",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXyWMDkMonique Dammers",
+      "description": "Professionele mediation",
+      "tariffEconnect": 22.5,
+      "tarief": 25,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Monique Dammers",
+      "verschilTarief": 2.5
+    },
+    {
+      "id": "MXVQq1eAngélique Hoos",
+      "description": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Angélique Hoos",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXo5Xp6Joyce Sonneveld",
+      "description": "Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 (e-learning)",
+      "tariffEconnect": 30,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Joyce Sonneveld",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXrG2GoNiels Eeftink",
+      "description": "Ontwikkelings- en levensfasepsychologie",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Niels Eeftink",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXyWMDkWilliam Meerman",
+      "description": "Professionele mediation",
+      "tariffEconnect": 22.5,
+      "tarief": 25,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "William Meerman",
+      "verschilTarief": 2.5
+    },
+    {
+      "id": "MXMYGEgEmma Splinter",
+      "description": "Integrale opdracht HBO Bachelor Pedagogiek fase 2",
+      "tariffEconnect": 30,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Emma Splinter",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXJkY56Jeska Jansen",
+      "description": "Integrale opdracht HBO Bachelor Pedagogiek fase 3",
+      "tariffEconnect": 30,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-26",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Jeska Jansen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXYQVVYAnouck Zeewuster - Schuitema",
+      "description": "Begeleiding in organisaties",
+      "tariffEconnect": 25,
+      "tarief": 25,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Anouck Zeewuster - Schuitema",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXnoZaRDusty Boeschoten",
+      "description": "Interventies sociaal werk",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Dusty Boeschoten",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX4N57PAniek van Wijk",
+      "description": "Bedrijfspsychologie en organisatiegedrag",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Aniek van Wijk",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXzn33WSanita de Groot",
+      "description": "Cognitieve psychologie",
+      "tariffEconnect": 25,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Sanita de Groot",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX8xylzAlex Geerts",
+      "description": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-04",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Alex Geerts",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXXPpJQSimone de Bil",
+      "description": "Gedrag in organisaties",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-04",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Simone de Bil",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXPLy57Hilde Gerards",
+      "description": "Masterclass Digitale Technologie voor Leren en Ontwikkelen",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-28",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Hilde Gerards",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXrJAg2Kim Vroom",
+      "description": "Beinvloeden van gezond gedrag",
+      "tariffEconnect": 30,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-04",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Kim Vroom",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXLz1v7Geeske Smit",
+      "description": "Portfolio fase 3 Bachelor Social Work profiel Zorg",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-04",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Geeske Smit",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX07zr1Magalie Leito",
+      "description": "Inventariseren en organiseren van leerlingenzorg",
+      "tariffEconnect": 25,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-05",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Magalie Leito",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXYQVVYIvory Soethof",
+      "description": "Begeleiding in organisaties",
+      "tariffEconnect": 25,
+      "tarief": 25,
+      "status": "actief",
+      "taskDate": "2024-03-05",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Ivory Soethof",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXqWwo7Kevin van der Weijde",
+      "description": "Masterclass Effectief Beïnvloeden en Overtuigen",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-05",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Kevin van der Weijde",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXWZwRwSozdar Khalaf",
+      "description": "Sociaal-maatschappelijke problematiek",
+      "tariffEconnect": 15,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-05",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Sozdar Khalaf",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXEQxY5Fleur Doosje",
+      "description": "Gedrag in organisaties",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-05",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Fleur Doosje",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXZm10WKarlijn Hondeman",
+      "description": "Portfolio fase 4 Bachelor Social Work profiel Zorg",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-05",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Karlijn Hondeman",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXRawLqRolf Willemsen",
+      "description": "Ontwikkelings- en levensfasepsychologie",
+      "tariffEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-03-06",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Rolf Willemsen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXYQVVYRenate Verhagen",
+      "description": "Begeleiding in organisaties",
+      "tariffEconnect": 25,
+      "tarief": 25,
+      "status": "actief",
+      "taskDate": "2024-03-06",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Renate Verhagen",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MX3k6R7Gracia Biervliet",
+      "description": "Management voor zorg en welzijn",
+      "tariffEconnect": 22.5,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-06",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Gracia Biervliet",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXxXoVlCherla Siereveld",
+      "description": "Communicatieve vaardigheden",
+      "tariffEconnect": 12.5,
+      "tarief": 12.5,
+      "status": "actief",
+      "taskDate": "2024-03-07",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Cherla Siereveld",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXVVGQqNick Hordijk",
+      "description": "Effectief communiceren en beïnvloeden",
+      "tariffEconnect": 50,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-14",
+      "taskType": null,
+      "studentName": "Nick Hordijk",
+      "verschilTarief": 0
+    },
+    {
+      "id": "MXxAOMlLydia de Korte",
+      "description": "Planmatig werken en organiseren (Gedragswetenschappen)",
+      "tariefEconnect": 20,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-02-29",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Lydia de Korte",
+      "workflowId": null
+    },
+    {
+      "id": "MX5OpavHussein Al Timimi",
+      "description": "Orthopedagogiek in de praktijk",
+      "tariefEconnect": 25,
+      "tarief": 0,
+      "status": "actief",
+      "taskDate": "2024-03-06",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Hussein Al Timimi",
+      "workflowId": null
+    },
+    {
+      "id": "MXanvreJulia Poelmann",
+      "description": "Arbeids- en gezondheidspsychologie",
+      "tariefEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-03-07",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Julia Poelmann",
+      "workflowId": null
+    },
+    {
+      "id": "MXanvreSandra Sterenborg",
+      "description": "Arbeids- en gezondheidspsychologie",
+      "tariefEconnect": 22.5,
+      "tarief": 22.5,
+      "status": "actief",
+      "taskDate": "2024-03-08",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Sandra Sterenborg",
+      "workflowId": null
+    }
+  ],
+  "workflow_data_gekoppeld": [],
+  "workflow_data_niet_gekoppeld": [
+    {
+      "id": 717029,
+      "amount": 1,
+      "price": 200,
+      "taskDate": "2024-02-12",
+      "description": "485662 Praktijkexamen vakopleiding erkend gewichtsconsulent + 2023-2/November",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716904,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-13",
+      "description": "499347 Professionele mediation + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716905,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-08",
+      "description": "495713 Ontwikkelings- en levensfasepsychologie + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716906,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-11",
+      "description": "503471 Masterclass Digitale Technologie voor Leren en Ontwikkelen + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716362,
+      "amount": 2,
+      "price": 25,
+      "taskDate": "2024-02-09",
+      "description": "499347 Professionele mediation + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716363,
+      "amount": 1,
+      "price": 25,
+      "taskDate": "2024-02-09",
+      "description": "510568 Orthopedagogiek in de praktijk + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716364,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-09",
+      "description": "499527 Persoonlijke groei en zelfinzicht + 2024-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716365,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-09",
+      "description": "505317 Organisatie en diversiteit + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716366,
+      "amount": 1,
+      "price": 55,
+      "taskDate": "2024-02-12",
+      "description": "427680 Afstudeeropdracht Gedragswetenschappen + 2023-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716367,
+      "amount": 1,
+      "price": 30,
+      "taskDate": "2024-02-12",
+      "description": "512204 Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 1 + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716368,
+      "amount": 1,
+      "price": 30,
+      "taskDate": "2024-02-13",
+      "description": "512234 Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716369,
+      "amount": 2,
+      "price": 50,
+      "taskDate": "2024-02-07",
+      "description": "503471 Masterclass Digitale Technologie voor Leren en Ontwikkelen + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716370,
+      "amount": 3,
+      "price": 50,
+      "taskDate": "2024-02-11",
+      "description": "503471 Masterclass Digitale Technologie voor Leren en Ontwikkelen + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716121,
+      "amount": 2,
+      "price": 0,
+      "taskDate": "2024-02-10",
+      "description": "2650897 MEd in de praktijk fase 1",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716359,
+      "amount": 1,
+      "price": 225,
+      "taskDate": "2024-02-10",
+      "description": "2881775 Integrale opdracht HBO Teamcoach Social Work (met subsidie) 9:00:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716360,
+      "amount": 4,
+      "price": 135,
+      "taskDate": "2024-02-10",
+      "description": "2034560 Planmatig werken en organiseren (Sociaal domein)",
+      "amountAssigned": 0
+    },
+    {
+      "id": 716361,
+      "amount": 5,
+      "price": 135,
+      "taskDate": "2024-02-10",
+      "description": "2147275 Planmatig werken en organiseren (Gedragswetenschappen)",
+      "amountAssigned": 0
+    },
+    {
+      "id": 715281,
+      "amount": 1,
+      "price": 315,
+      "taskDate": "2024-02-05",
+      "description": "N-PRJ55270 - Voorbereiding Powerboost Intervisie",
+      "amountAssigned": 0
+    },
+    {
+      "id": 715282,
+      "amount": 0.5,
+      "price": 315,
+      "taskDate": "2024-02-05",
+      "description": "N-PRJ55270 - Extra voorbereiding Powerboost Intervisie",
+      "amountAssigned": 0
+    },
+    {
+      "id": 714909,
+      "amount": 2,
+      "price": 255,
+      "taskDate": "2024-02-01",
+      "description": "2920125 Kick-off 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713413,
+      "amount": 1,
+      "price": 225,
+      "taskDate": "2024-02-01",
+      "description": "2913697 HBO Intervisie en Coaching 7:00:00 PM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713414,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2024-02-06",
+      "description": "2895667 Sociaal pedagogisch begeleiden 10:00:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713415,
+      "amount": 1,
+      "price": 12.5,
+      "taskDate": "2024-02-04",
+      "description": "507740 Sociaal-maatschappelijke problematiek + 2023-1/Juli",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713416,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-04",
+      "description": "509880 Portfolio fase 3 Bachelor Social Work profiel Zorg + 2023-1/Juli",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713417,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-05",
+      "description": "511096 Communicatieve Vaardigheden + 2023-1/Juli",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713418,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-01-31",
+      "description": "509881 Portfolio fase 3 Bachelor Social Work profiel Zorg + 2023-1/Juli",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713419,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-01-31",
+      "description": "509880 Portfolio fase 3 Bachelor Social Work profiel Zorg + 2023-1/Juli",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713423,
+      "amount": 1,
+      "price": 25,
+      "taskDate": "2024-02-04",
+      "description": "504846 Sociale psychologie + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713424,
+      "amount": 1,
+      "price": 25,
+      "taskDate": "2024-02-04",
+      "description": "505334 Dyscalculie + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713425,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-04",
+      "description": "499527 Persoonlijke groei en zelfinzicht + 2024-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713426,
+      "amount": 1,
+      "price": 55,
+      "taskDate": "2024-02-04",
+      "description": "482278 Afstudeeropdracht Gedragswetenschappen + 2023-1/Juni",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713427,
+      "amount": 1,
+      "price": 25,
+      "taskDate": "2024-02-05",
+      "description": "504805 Cognitieve psychologie + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713428,
+      "amount": 1,
+      "price": 25,
+      "taskDate": "2024-02-05",
+      "description": "499347 Professionele mediation + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713429,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-05",
+      "description": "495713 Ontwikkelings- en levensfasepsychologie + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713430,
+      "amount": 1,
+      "price": 125,
+      "taskDate": "2024-02-05",
+      "description": "493675 Valideringsassessment HBO Bachelor Toegepaste Psychologie + 2023-1/Mei",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713431,
+      "amount": 1,
+      "price": 200,
+      "taskDate": "2024-01-31",
+      "description": "417558 Certificeringsprogramma Professioneel Coach + 2022-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713432,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-01-31",
+      "description": "495713 Ontwikkelings- en levensfasepsychologie + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713433,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-07",
+      "description": "455935 Professioneel en oplossingsgericht werken + 2023-2/Augustus",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713434,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-07",
+      "description": "523152 Professionaliseren 1 Bachelor Social Work + 2024-1/Juli",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713435,
+      "amount": 1,
+      "price": 75,
+      "taskDate": "2024-02-06",
+      "description": "514591 Valideringsassessment HBO Bachelor Toegepaste Psychologie + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 713436,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-01",
+      "description": "504194 Masterclass Psychologie en Gedrag + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 712054,
+      "amount": 2,
+      "price": 210,
+      "taskDate": "2024-01-29",
+      "description": "2918666 Kick-off en startbijeenkomst Studievaardigheden 10:00:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 669524,
+      "amount": 1,
+      "price": 0,
+      "taskDate": "2023-09-13",
+      "description": "Opstartbijeenkomst Sociaal domein (Bachelors)_2023-09-13",
+      "amountAssigned": 0
+    },
+    {
+      "id": 669525,
+      "amount": 119,
+      "price": 0.21,
+      "taskDate": "2023-09-13",
+      "description": "Travel costs_2023-09-13",
+      "amountAssigned": 0
+    },
+    {
+      "id": 582997,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2022-12-20",
+      "description": "2738338 Het goede gesprek 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 664355,
+      "amount": 115,
+      "price": 0.19,
+      "taskDate": "2022-12-20",
+      "description": "Reiskosten eigen vervoer",
+      "amountAssigned": 0
+    },
+    {
+      "id": 664356,
+      "amount": 1,
+      "price": 22.64,
+      "taskDate": "2022-12-20",
+      "description": "Parkeerkosten",
+      "amountAssigned": 0
+    },
+    {
+      "id": 581852,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2022-12-13",
+      "description": "2738338 Het goede gesprek 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 588551,
+      "amount": 115,
+      "price": 0.19,
+      "taskDate": "2022-12-13",
+      "description": "Reiskosten eigen vervoer",
+      "amountAssigned": 0
+    },
+    {
+      "id": 588552,
+      "amount": 1,
+      "price": 35,
+      "taskDate": "2022-12-13",
+      "description": "Parkeerkosten",
+      "amountAssigned": 0
+    },
+    {
+      "id": 576913,
+      "amount": 0.5,
+      "price": 300,
+      "taskDate": "2022-11-30",
+      "description": "N-PRJ49782 - voorbereiding",
+      "amountAssigned": 0
+    },
+    {
+      "id": 576914,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2022-12-06",
+      "description": "2738336 Het goede gesprek 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 588591,
+      "amount": 115,
+      "price": 0.19,
+      "taskDate": "2022-12-06",
+      "description": "Reiskosten eigen vervoer",
+      "amountAssigned": 0
+    },
+    {
+      "id": 588592,
+      "amount": 1,
+      "price": 22.64,
+      "taskDate": "2022-12-06",
+      "description": "Parkeerkosten",
+      "amountAssigned": 0
+    },
+    {
+      "id": 575703,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2022-11-29",
+      "description": "2738338 Het goede gesprek 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 572663,
+      "amount": 0.5,
+      "price": 300,
+      "taskDate": "2022-11-17",
+      "description": "N-PRJ49782 - voorbereiding",
+      "amountAssigned": 0
+    },
+    {
+      "id": 572664,
+      "amount": 0.5,
+      "price": 300,
+      "taskDate": "2022-11-21",
+      "description": "N-PRJ49782 - voorbereiding",
+      "amountAssigned": 0
+    },
+    {
+      "id": 572665,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2022-11-22",
+      "description": "2738336 Het goede gesprek 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 588589,
+      "amount": 115,
+      "price": 0.19,
+      "taskDate": "2022-11-22",
+      "description": "Reiskosten eigen vervoer",
+      "amountAssigned": 0
+    },
+    {
+      "id": 588590,
+      "amount": 1,
+      "price": 22.64,
+      "taskDate": "2022-11-22",
+      "description": "Parkeerkosten",
+      "amountAssigned": 0
+    },
+    {
+      "id": 564934,
+      "amount": 1.5,
+      "price": 300,
+      "taskDate": "2022-11-08",
+      "description": "N-PRJ49304 - Voorbereiding grp 8 nov.",
+      "amountAssigned": 0
+    },
+    {
+      "id": 564935,
+      "amount": 1.5,
+      "price": 300,
+      "taskDate": "2022-11-08",
+      "description": "N-PRJ49304 - Voorbereiding grp 29 nov.",
+      "amountAssigned": 0
+    },
+    {
+      "id": 564936,
+      "amount": 0.5,
+      "price": 300,
+      "taskDate": "2022-11-07",
+      "description": "N-PRJ49781 - voorbereiding",
+      "amountAssigned": 0
+    },
+    {
+      "id": 564937,
+      "amount": 0.5,
+      "price": 300,
+      "taskDate": "2022-11-03",
+      "description": "N-PRJ49782 - voorbereiding",
+      "amountAssigned": 0
+    },
+    {
+      "id": 564938,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2022-11-08",
+      "description": "2738336 Het goede gesprek 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 588554,
+      "amount": 1,
+      "price": 22.64,
+      "taskDate": "2022-11-08",
+      "description": "Parkeerkosten",
+      "amountAssigned": 0
+    },
+    {
+      "id": 564727,
+      "amount": 2,
+      "price": 300,
+      "taskDate": "2022-11-02",
+      "description": "2687870 Cliëntondersteuning 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 587324,
+      "amount": 115,
+      "price": 0.19,
+      "taskDate": "2022-11-02",
+      "description": "Reiskosten eigen vervoer",
+      "amountAssigned": 0
+    },
+    {
+      "id": 587325,
+      "amount": 1,
+      "price": 27,
+      "taskDate": "2022-11-02",
+      "description": "Parkeerkosten",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718127,
+      "amount": 1,
+      "price": 11.5,
+      "taskDate": "2024-02-15",
+      "description": "464514 Zakelijk schrijven + 2023-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718128,
+      "amount": 1,
+      "price": 12.5,
+      "taskDate": "2024-02-15",
+      "description": "498376 Communicatieve vaardigheden + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 719190,
+      "amount": 2,
+      "price": 315,
+      "taskDate": "2024-02-14",
+      "description": "2919588 Brain-based Beïnvloeden 9:30:00 AM",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718986,
+      "amount": 2,
+      "price": 65,
+      "taskDate": "2024-02-15",
+      "description": "477718 Ondernemend gedrag (geschikt voor niveau 3 en 4) - K0072 + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718987,
+      "amount": 1,
+      "price": 65,
+      "taskDate": "2024-02-15",
+      "description": "515646 Ondernemend gedrag (geschikt voor niveau 3 en 4) - K0072 + 2024-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718988,
+      "amount": 1,
+      "price": 65,
+      "taskDate": "2024-02-15",
+      "description": "477715 Ondernemend gedrag (geschikt voor niveau 3 en 4) - K0072 + 2023-2/September",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718918,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-16",
+      "description": "502695 Coaching en begeleidingskunde + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718919,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-17",
+      "description": "525015 Arbeids- en gezondheidspsychologie + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718592,
+      "amount": 1,
+      "price": 25,
+      "taskDate": "2024-02-18",
+      "description": "505334 Dyscalculie + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718593,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-18",
+      "description": "493316 Bedrijfspsychologie en organisatiegedrag + 2024-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718594,
+      "amount": 1,
+      "price": 30,
+      "taskDate": "2024-02-18",
+      "description": "512234 Integrale opdracht HBO Bachelor Toegepaste Psychologie fase 3 + 2024-1/Januari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718595,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-18",
+      "description": "504194 Masterclass Psychologie en Gedrag + 2023-2/December",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718596,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-18",
+      "description": "503910 Masterclass Ontwerpen en Realiseren van Leertrajecten + 2024-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718597,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-14",
+      "description": "499347 Professionele mediation + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718598,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-14",
+      "description": "487851 Oplossingsgericht werken + 2023-2/Augustus",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718600,
+      "amount": 1,
+      "price": 22.5,
+      "taskDate": "2024-02-15",
+      "description": "499347 Professionele mediation + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718601,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-15",
+      "description": "502695 Coaching en begeleidingskunde + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718602,
+      "amount": 1,
+      "price": 65,
+      "taskDate": "2024-02-15",
+      "description": "514391 Ondernemend gedrag (geschikt voor niveau 3 en 4) - K0072 + 2024-1/Juli",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718603,
+      "amount": 1,
+      "price": 65,
+      "taskDate": "2024-02-15",
+      "description": "514393 Ondernemend gedrag (geschikt voor niveau 3 en 4) - K0072 + 2024-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718604,
+      "amount": 5,
+      "price": 50,
+      "taskDate": "2024-02-16",
+      "description": "502695 Coaching en begeleidingskunde + 2024-1/Februari",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718605,
+      "amount": 1,
+      "price": 50,
+      "taskDate": "2024-02-16",
+      "description": "531762 Coaching en begeleidingskunde + 2024-1/Maart",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718606,
+      "amount": 1,
+      "price": 0,
+      "taskDate": "2024-02-19",
+      "description": "Kernteamoverleg Bachelor Social Work_2024-02-19",
+      "amountAssigned": 0
+    },
+    {
+      "id": 718607,
+      "amount": 0,
+      "price": 0.21,
+      "taskDate": "2024-02-19",
+      "description": "Travel costs_2024-02-19",
+      "amountAssigned": 0
+    }
+  ],
+  "foutive_tarieven": [
+    {
+      "id": "MXyWMDkMonique Dammers",
+      "description": "Professionele mediation",
+      "tariffEconnect": 22.5,
+      "tarief": 25,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "Monique Dammers",
+      "verschilTarief": 2.5
+    },
+    {
+      "id": "MXyWMDkWilliam Meerman",
+      "description": "Professionele mediation",
+      "tariffEconnect": 22.5,
+      "tarief": 25,
+      "status": "actief",
+      "taskDate": "2024-03-01",
+      "taskType": "Beoordelen upload opdracht",
+      "studentName": "William Meerman",
+      "verschilTarief": 2.5
+    }
+  ]
+}
